@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaevooxeid.squarefishdigital.com/sitemap.xml
